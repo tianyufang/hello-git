@@ -28,11 +28,11 @@
 ![markdown](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2285703242,468077740&fm=23&gp=0.jpg)
 
 
-##代码段 空格+tab
+## 代码段 空格+tab
 
     if(true){}
 
-##高亮显示``
+## 高亮显示``
 
 user the `priint()` function
 
